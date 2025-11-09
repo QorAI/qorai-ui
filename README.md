@@ -1,6 +1,7 @@
 # WARNING! This project is deprecated. Consider switching to https://github.com/qorai/qora
 
-<p align="center"><img src="./ui-logo.svg" width="130px" height="170px"/></p>
+<img width="256" height="256" alt="Privacy is not hiding it&#39;s the freedom of choice (20)" src="https://github.com/user-attachments/assets/572de11c-4c72-4c03-b61e-3bb366505d45" />
+
 
 
 
