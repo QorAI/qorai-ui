@@ -1,4 +1,4 @@
-# WARNING! This project is deprecated. Consider switching to https://github.com/qorai/aadhya
+# WARNING! This project is deprecated. Consider switching to https://github.com/qorai/qora
 
 <p align="center"><img src="./ui-logo.svg" width="130px" height="170px"/></p>
 
